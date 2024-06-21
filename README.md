@@ -15,10 +15,12 @@
     - 실제 도로 환경을 구성한 경기장에서 교통신호에 따라 목적지까지 자율주행 테스트
 
     ### 수행 일정
+![화면 캡처 2024-06-21 184608](https://github.com/Baby-Blowfish/Making-autonomous-car/assets/168509536/af4b2899-bfa7-4d35-a251-6c12e5f6a419)
 
 
     ### 기술 스택
-    
+![화면 캡처 2024-06-21 184413](https://github.com/Baby-Blowfish/Making-autonomous-car/assets/168509536/f8bd79f5-efbe-4925-a634-59b4a0cf7620)
+
 
 
 ## 3. 프로젝트 내 역할 : 펌웨어 개발/ 임베디드 개발
